@@ -4,7 +4,7 @@ WWDC Student Scholarship App is an app submission for Apple's annual [WWDC Stude
 
 ## Project Notes
 
-The app is structured with several pages that flip like a book. Each page is represented by a UIViewController that cycles in and out of screen as the pages are viewed. This is the most embarassing piece of software I have ever made and also likely the most cheesy. Oh gosh I'm looking at the screenshots now and this is humiliating. Wow.. was I really like that?
+The app is structured with several pages that flip like a book. Each page is represented by a UIViewController that cycles in and out of screen as the pages are viewed. This is the most embarassing piece of software I have ever made and also likely the most cheesy. Oh gosh I'm looking at the screenshots now and this is humiliating. Wow.. did I really say all that?
 
 ## License
 
